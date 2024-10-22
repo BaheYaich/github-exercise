@@ -3,3 +3,6 @@ app-cache/gen/**
 app-cache
 .vscode
 .DS_Store
+app/assets/css/main.min.css
+app/assets/css/main.min.css.map
+
